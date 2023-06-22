@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T12:32:27.091Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="hlQ_Ko1wBLEVW9C2fkda" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-22T12:01:11.349Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="w9EVPhtJpS9hM2ep6lYK" version="21.4.0" type="github">
   <diagram name="ページ1" id="wpgIV0toxubkk-c5ZMFS">
-    <mxGraphModel dx="1434" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="660" dy="1131" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -236,13 +236,13 @@
         <mxCell id="nAhC664SsrfzIg8r3yyL-59" value="普通光头光脚阴线" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="570" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nAhC664SsrfzIg8r3yyL-68" value="" style="endArrow=none;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="nAhC664SsrfzIg8r3yyL-68" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="745" y="87" as="sourcePoint" />
             <mxPoint x="715" y="87" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nAhC664SsrfzIg8r3yyL-69" value="" style="endArrow=none;html=1;rounded=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" parent="1" edge="1">
+        <mxCell id="nAhC664SsrfzIg8r3yyL-69" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="730" y="68" as="sourcePoint" />
             <mxPoint x="730" y="88" as="targetPoint" />
